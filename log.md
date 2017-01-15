@@ -15,3 +15,8 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 2 (01/14)
 
 + [RORI](https://github.com/AmarOk1412/rori): improving RORI_www
+
+## Day 3 (01/15)
+
++ Firefox bug 1298321
++ I played with the twitter API (I think I will push something later)
