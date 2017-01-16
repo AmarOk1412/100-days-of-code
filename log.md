@@ -20,3 +20,8 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + Firefox bug 1298321
 + I played with the twitter API (I think I will push something later)
+
+## Day 4 (01/16)
+
++ I checked some bugs in https://github.com/mozilla/readability
++ Install TensorFlow
