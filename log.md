@@ -25,3 +25,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + I checked some bugs in https://github.com/mozilla/readability
 + Install TensorFlow
+
+## Day 5 (01/17)
+
++ Work on previous patchs
