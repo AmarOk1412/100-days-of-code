@@ -40,3 +40,8 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + [RORI]: Add meteo module
 + fix css for matrix-angular-js
+
+## Day 8 (01/20)
+
++ [RORI]: continue the meteo module. Play with NLTK (Standford).
++ [Firefox]: Continue Bug 1327675
