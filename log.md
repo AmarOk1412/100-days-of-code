@@ -35,3 +35,8 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 + Continue https://github.com/TizenTeam/matrix-angular-sdk/tree/devel
 + Continue to have fun with TensorFlow
 + [RORI](https://github.com/AmarOk1412/RORI_server): Add tests for the rori_server API
+
+## Day 7 (01/19)
+
++ [RORI]: Add meteo module
++ fix css for matrix-angular-js
