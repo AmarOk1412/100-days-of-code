@@ -45,3 +45,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + [RORI]: continue the meteo module. Play with NLTK (Standford).
 + [Firefox]: Continue Bug 1327675
+
+## Day 9 (01/21)
+
++ Play with twitter api
