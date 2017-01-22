@@ -49,3 +49,10 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 9 (01/21)
 
 + Play with twitter api
+
+## Day 10 (01/22)
+
++ Compile ring.cx
++ RORI add wikipedia module + play with nltk
+
+
