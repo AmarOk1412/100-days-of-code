@@ -55,4 +55,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 + Compile ring.cx
 + RORI add wikipedia module + play with nltk
 
+## Day 11 (01/23)
 
++ Continue RORI (add words modules)
++ Finish Firefox patchs
