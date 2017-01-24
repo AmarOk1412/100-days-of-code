@@ -59,3 +59,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + Continue RORI (add words modules)
 + Finish Firefox patchs
+
+## Day 12 (01/24)
+
++ Continue RORI
