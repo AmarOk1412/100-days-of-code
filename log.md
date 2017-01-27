@@ -63,3 +63,11 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 12 (01/24)
 
 + Continue RORI
+
+## Day 13  (01/25)
+
++ same as previous day 
+
+## Day 14 (01/26)
+
++ Play with Naive Bayes Classifier
