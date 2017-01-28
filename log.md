@@ -71,3 +71,12 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 14 (01/26)
 
 + Play with Naive Bayes Classifier
+
+## Day 15 (01/27)
+
++ Continue Naive Bayes Classifier
+
+## Day 16 (01/28)
+
++ Finish clean_tweet.py
++ Play with ElasticSearch
