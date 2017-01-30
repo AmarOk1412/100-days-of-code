@@ -80,3 +80,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + Finish clean_tweet.py
 + Play with ElasticSearch
+
+## Day 17 (01/29)
+
++ Continue to play with elasticsearch (will make someething useful soon) + twitter
