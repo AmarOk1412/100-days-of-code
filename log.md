@@ -84,3 +84,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 17 (01/29)
 
 + Continue to play with elasticsearch (will make someething useful soon) + twitter
+
+## Day 18 (01/30)
+
++ Create the bot on twitter. More soon :D
