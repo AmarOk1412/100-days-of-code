@@ -88,3 +88,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 18 (01/30)
 
 + Create the bot on twitter. More soon :D
+
+## Day 19 (01/31)
+
++ Continue the bot on twitter. Deploy the v1 on a server. I must continue to train the classifier... Will be long
