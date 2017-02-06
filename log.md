@@ -92,4 +92,9 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 19->23 (01/31 -> 02/04)
 
 + Continue the bot on twitter. Deploy the v1 on a server. I must continue to train the classifier... Will be long. Clean code, add a script to send tweet and not just retweet things.
++ Push patch to firefox
 
+## Day 24 (02/05)
+
++ Clean code for RORI, push version 1
++ Add a webhook on the twitter bot and continue to classify tweets
