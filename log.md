@@ -108,3 +108,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + Continue (again) to train the bot... modify the classifier script
 + Implement a new random generator
+
+## Day 27 (02/08)
+
++ Learn NetLogo
