@@ -99,7 +99,12 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 + Clean code for RORI, push version 1
 + Add a webhook on the twitter bot and continue to classify tweets
 
-## Day 25 (03/05)
+## Day 25 (02/06)
 
 + Play with generators in python to create a random number generator based on the paper of *Stephen K Park and Keith W Miller* (Random number generators: good ones are hard to find)
 + Continue to train my twitter bot... detect negatives with 95% success but positives at 57%
+
+## Day 26 (02/07)
+
++ Continue (again) to train the bot... modify the classifier script
++ Implement a new random generator
