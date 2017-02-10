@@ -112,3 +112,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 27 (02/08)
 
 + Learn NetLogo
+
+## Day 28 (02/09)
+
++ Play with the flocking example of NetLogo
