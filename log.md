@@ -116,3 +116,13 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 28 (02/09)
 
 + Play with the flocking example of NetLogo
+
+## Day 29 (02/10)
+
++ fix my extension for https://zestedesavoir.com
++ Localize a bug on a python script 
+
+## Day 30 (02/11)
+
++ Test my random generators with a Monte Carlo test + repartition test
++ Play with tkinter
