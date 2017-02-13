@@ -126,3 +126,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + Test my random generators with a Monte Carlo test + repartition test
 + Play with tkinter
+
+## Day 31 (02/12)
+
++ Improve zds-notificateur for https://zestedesavoir.com
