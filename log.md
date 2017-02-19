@@ -130,3 +130,17 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 31 (02/12)
 
 + Improve zds-notificateur for https://zestedesavoir.com
+
+## Day 32,33,34 (02/13->15)
+
++ Improve Flocking
+
+## Day 35, 36 (02/16, 17)
+
++ Pull Request on zds-notificateur
++ Continue to classify tweets
++ Improve flocking
+
+## Day 38 (02/19)
+
++ Finish Flocking
