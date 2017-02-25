@@ -141,6 +141,16 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 + Continue to classify tweets
 + Improve flocking
 
-## Day 38 (02/19)
+## Day 38, 39 (02/19, 20)
 
-+ Finish Flocking
++ Finish Flocking and report
+
+## Day 40, 41 (02/21, 22)
+
++ Learn JASON
++ Play with buffer overflow in C and JS for newbiecontest.org
+
+
+## Day 42, 43 (02/23, 24)
+
++ 2 challenges on newbiecontest.org
