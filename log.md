@@ -154,3 +154,12 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 42, 43 (02/23, 24)
 
 + 2 challenges on newbiecontest.org
+
+## Day 44 (02/25)
+
++ Improve my twitter bot 
++ enconn.fr
+
+## Day 45 (02/26)
+
++ Play with Elastic Search for https://zestedesavoir.com. Will make a PR 
