@@ -163,3 +163,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 45 (02/26)
 
 + Play with Elastic Search for https://zestedesavoir.com. Will make a PR 
+
+## Day 46 (02/27)
+
++ Clean code for fen4i4 and release the code (https://github.com/AmarOk1412/fen4i4)
