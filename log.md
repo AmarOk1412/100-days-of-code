@@ -167,3 +167,11 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 46 (02/27)
 
 + Clean code for fen4i4 and release the code (https://github.com/AmarOk1412/fen4i4)
+
+## Day 47 (02/28)
+
++ Continue to play with ES and OpenDHT
+
+## Day 48, 49 (03/01, 02)
+
++ Work on https://github.com/zestedesavoir/zds-site/pull/4236 and my bot.
