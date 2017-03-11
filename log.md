@@ -175,3 +175,16 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 48, 49 (03/01, 02)
 
 + Work on https://github.com/zestedesavoir/zds-site/pull/4236 and my bot.
+
+## Day 50, 51, 52 (03/03->05)
+
++ Continue my twitter bot and fix my computer...
+
+## Day 53->56 (03/06, 07, O8, 09)
+
++ Twitter bot
++ Read the doc for Nao
+
+## Day 57 (03/10)
+
++ Random Walker
