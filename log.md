@@ -185,6 +185,14 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 + Twitter bot
 + Read the doc for Nao
 
-## Day 57 (03/10)
+## Day 57, 58 (03/10, 11)
 
 + Random Walker
+
+## Day 59, 60 (03/12, 03/13)
+
++ Continue PR zds and new issue
+
+## Day 61, 62 (03/14, 15)
+
++ easy_ctf
