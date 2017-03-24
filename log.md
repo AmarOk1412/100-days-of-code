@@ -193,6 +193,14 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + Continue PR zds and new issue
 
-## Day 61, 62, 63, 64, 65 (03/14, 15, 16, 17, 18)
+## Day 61, 62, 63, 64, 65, 66 (03/14, 15, 16, 17, 18, 19)
 
 + easy_ctf
+
+## Day 67 (03/20)
+
++ Nao SDK
+
+## Day 68, 69, 70, 71 (03/21, 22, 23, 24)
+
++ Learning godot engine
