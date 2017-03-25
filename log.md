@@ -204,3 +204,9 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 68, 69, 70, 71 (03/21, 22, 23, 24)
 
 + Learning godot engine
+
+## Day 72 (03/25)
+
++ zmarkdown emoticon plugin
++ godot
++ python graph
