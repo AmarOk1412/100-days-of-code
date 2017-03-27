@@ -210,3 +210,9 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 + zmarkdown emoticon plugin
 + godot
 + python graph
+
+## Day 73 (03/26)
+
++ godot
++ Naoqi
++ Tensorflow
