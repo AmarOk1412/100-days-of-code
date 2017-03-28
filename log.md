@@ -211,8 +211,12 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 + godot
 + python graph
 
-## Day 73 (03/26)
+## Day 73, 74 (03/26, 27)
 
 + godot
 + Naoqi
 + Tensorflow
+
+## Day 75 (03/28)
+
++ ring.cx
