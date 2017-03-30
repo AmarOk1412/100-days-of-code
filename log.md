@@ -220,3 +220,9 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 75 (03/28)
 
 + ring.cx
+
+## Day 76, 77 (03/29, 30)
+
++ ring.cx
++ zmarkdown
++ a random walker
