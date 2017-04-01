@@ -221,8 +221,12 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + ring.cx
 
-## Day 76, 77 (03/29, 30)
+## Day 76, 77, 78 (03/29, 30, 31)
 
 + ring.cx
 + zmarkdown
 + a random walker
+
+## Day 79 (04/01)
+
++ zmarkdown align plugin
