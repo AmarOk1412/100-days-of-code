@@ -230,3 +230,8 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 79 (04/01)
 
 + zmarkdown align plugin
+
+## Day 80 (04/02)
+
++ merge align plugin https://github.com/zestedesavoir/zmarkdown
+° continue RealSteal http://github.com/AmarOk1412/RealSteal
