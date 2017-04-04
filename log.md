@@ -234,4 +234,12 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 80 (04/02)
 
 + merge align plugin https://github.com/zestedesavoir/zmarkdown
-° continue RealSteal http://github.com/AmarOk1412/RealSteal
++ continue RealSteal http://github.com/AmarOk1412/RealSteal
+
+## Day 81 (04/03)
+
++ Nao
+
+## Day 82 (04/04)
+
++ Behavior Tree
