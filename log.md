@@ -243,3 +243,16 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 82 (04/04)
 
 + Behavior Tree
+
+## Day 83 (04/05)
+
++ C#....
+
+## Day 84, 85 (04/06, 07)
+
++ ring.cx
++ zmd
+
+## Day 86 (04/08)
+
++ Improving my env
