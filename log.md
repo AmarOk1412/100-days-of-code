@@ -256,3 +256,26 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 86 (04/08)
 
 + Improving my env
+
+## Day 87 (04/09)
+
++ ring
++ clean code nao
++ find new issues zmd
+
+## Day 88 (04/10)
+
++ Behavior trees
+
+## Day 89 (04/11)
+
++ Finish Nao demo
+
+## Day 90 (04/12)
+
++ zmd comments, pr incoming
+
+## day 91 (04/13)
+
++ zmd
++ one lab
