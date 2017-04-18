@@ -279,3 +279,19 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 
 + zmd
 + one lab
+
+## Day 92 (04/14)
+
++ the lab
+
+## Day 93 (04/15)
+
++ zestedesavoir
+
+## Day 94 (04/16)
+
++ ring
+
+## Day 95 (04/17)
+
++ Nao demo !
