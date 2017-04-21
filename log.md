@@ -295,3 +295,15 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 95 (04/17)
 
 + Nao demo !
+
+## Day 96 (04/19)
+
++ a lab
+
+## Day 97 (04/20)
+
++ ring
+
+## Day 98 (04/21)
+
++ QA
