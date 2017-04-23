@@ -307,3 +307,7 @@ I began a challenge myself the 2nd of January, but, I discover the challenge the
 ## Day 98 (04/21)
 
 + QA
+
+## Day 99,100 (04/22, 23)
+
++ ring.cx
